@@ -4,7 +4,7 @@ REST api for this app you can find <a href="https://github.com/NedNedov228/Compl
 
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+### `npm i`
 
 ## Available Scripts
 
